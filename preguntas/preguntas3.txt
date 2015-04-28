@@ -1,0 +1,9 @@
+1.- 
+2.- Hypertext Markup Lenguaje
+3.- PHP nos permite trabajarpara generaruna pagina con codigo directamente y mas sencillo mientras que JAVASCRIPT  nos da la funcionlidad de poder crear el codigo y organizrlo y producir mejor presentacion se los usaria cpnjuntamente por que los codigos que manejan son iguales y no varia mucho.
+4.- Css es la hoja de estilos contiene  codigo para modificar la presentacion de nuestra pagina
+5.- Primero Investigando el error que tipo es y por que se produce y a continuacion verificando el correcto codigo d el mismo.
+6.-
+7.-la direccion de localhost contiene una direccion local para publicar informacion web y la 127.0.0.1 contiene una direccion especifica para poder trabajar en una sola direccion.
+8.-
+9.- 
