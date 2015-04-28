@@ -1,0 +1,13 @@
+1.- <?p 
+2.- el (;)
+3.- nos sirve para señalar variables
+4.- podemos almacenaar un string
+5.-con el array
+6.- 6.1 verdadero
+    6.2 falso
+7.- ++$j aigna incremento a un valor señalado , mientras q $j++ incrementa el valor a la variable j
+8.-
+9.-
+10.-
+	a)
+	b)
