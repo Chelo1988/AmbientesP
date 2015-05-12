@@ -1,6 +1,6 @@
 1.- los valoresq maneja pra true es 1 y para false es 0
 2.-
 3.- agrupar la funcionalidad de operdores de manera sencilla
-4.-el operador identidad === se utiliza para comparar una variable
+4.-las variables de un objeto son id�nticas  osea si a es igual a b i si son del mismo tipo
 5.- con continue 
 6.- es una forma de ahcer operaciones condicionales
