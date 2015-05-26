@@ -32,7 +32,10 @@
 	echo("Ciudad de Nacimiento : ".$ciudades);
 	echo("<br>");
 
-
+	if (isset($_POST['intereses[]'])) 
+{
+    print_r($_POST['intereses[]']); 
+}
 
 	$biografia = $_POST['biografia'];
 	echo("Biografia : ".$biografia);
