@@ -1,0 +1,1 @@
+echo texto descripcion de repositorio >> README.md

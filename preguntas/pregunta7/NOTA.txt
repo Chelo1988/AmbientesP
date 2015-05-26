@@ -1,0 +1,6 @@
+2/10
+
+la variables van con $
+la función está fuera de PHP y debería estar dentro.
+La tabla esta bien armada pero deberías incluir el código
+en PHP con los echo y entre ''
