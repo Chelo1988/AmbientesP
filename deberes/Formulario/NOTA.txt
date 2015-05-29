@@ -1,0 +1,5 @@
+6/10
+Incompleto. No se está controlando los usuarios.
+No se muestran los intereses en la página final. Si imprimes la variable: print_r($_POST) puede ver que el arreglo de intereses se llama $_POST['intereses'] pero tu estás usando $_POST['intereses[]'] por lo tanto nunca se muestra el arreglo.
+En lugar de imprimir print_r($_POST['intereses']); debes iterar sobre ese arreglo con un for o foreach e ir imprimiendo cada elemento.
+Los archivos están bien separados e incluidos en cada archivo.

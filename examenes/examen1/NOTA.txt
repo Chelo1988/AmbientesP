@@ -1,0 +1,19 @@
+3/10
+
+No veo código PHP por ningún lado solo HTML y CSS
+htaccess
+  error en el uso del parametro se usa así:
+    php_value auto_prepend_file C:\xampp\htdocs\examen\inc\config.php
+
+index.php
+  correcto uso del formulario pero se debe indicar el method="post"
+  correcto uso de link para incluir estilos.css aunque falta el código php que controla cuando se debe incluir.
+
+inicio.php
+  correcto uso del formulario pero falta el código PHP.
+
+config.php
+  vacio
+
+estilos.css
+  funciona pero no hace lo requerido
